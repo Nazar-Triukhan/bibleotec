@@ -1,0 +1,21 @@
+/* #myChart{
+    width: 1000px !important;
+    height: 1000px !important;
+
+} */
+
+.modal{
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.p{
+    margin-top: 10px;
+}
+
+.basicLightbox{
+background-color: rgba(0, 0, 0, 0.438);
+}
